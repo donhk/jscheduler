@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SchedulerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-01T18:37:49" hostname="DESKTOP-495R2UK" time="0.02">
+  <properties/>
+  <testcase name="test1" classname="SchedulerTest" time="0.02"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
